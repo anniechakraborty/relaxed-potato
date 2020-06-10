@@ -1,8 +1,9 @@
 # Relaxed Potato
 Breathe a little. Be a potato!
+[Visit the app here](https://anniechakraborty.github.io/relaxed-potato/)
+
 
 ![Relaxed Potato](RelaxedPotato.gif)
-[Visit the app here](https://anniechakraborty.github.io/relaxed-potato/)
 
 ## About the app
 
