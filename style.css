@@ -15,6 +15,15 @@ body {
     margin: 0;
 }
 
+h1 {
+    margin-bottom: 0;
+}
+
+p em {
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
 
 /* Desgining the circles */
 
